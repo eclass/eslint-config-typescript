@@ -26,7 +26,7 @@
 [Install](https://docs.npmjs.com/cli/install) [`eslint`](https://www.npmjs.com/package/eslint) and this package with [npm](https://docs.npmjs.com/about-npm/).
 
 ```
-npm i -D eslint @eclass/eslint-config-typescript eslint-plugin-import prettier
+npm i -D eslint @eclass/eslint-config-typescript eslint-plugin-{array-func,eslint-comments,import,node,prettier,promise,security,sonarjs,standard} @typescript-eslint/{eslint-plugin,parser} prettier
 ```
 
 Then add the following configuration to your project's [`package.json`](https://docs.npmjs.com/files/package.json).
