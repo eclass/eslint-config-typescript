@@ -1,7 +1,7 @@
 # @eclass/eslint-config-typescript
 
 [![npm](https://img.shields.io/npm/v/@eclass/eslint-config-typescript.svg)](https://www.npmjs.com/package/@eclass/eslint-config-typescript)
-[![Build Status](https://travis-ci.org/eclass/eslint-config-typescript.svg?branch=master)](https://travis-ci.org/eclass/eslint-config-typescript)
+![Node.js CI](https://github.com/eclass/eslint-config-typescript/workflows/Node.js%20CI/badge.svg)
 [![downloads](https://img.shields.io/npm/dt/@eclass/eslint-config-typescript.svg)](https://www.npmjs.com/package/@eclass/eslint-config-typescript)
 [![dependencies Status](https://david-dm.org/eclass/eslint-config-typescript/status.svg)](https://david-dm.org/eclass/eslint-config-typescript)
 [![devDependencies Status](https://david-dm.org/eclass/eslint-config-typescript/dev-status.svg)](https://david-dm.org/eclass/eslint-config-typescript?type=dev)
