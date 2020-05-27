@@ -1,7 +1,7 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
   parserOptions: {
-    sourceType: 'module',
+    sourceType: 'module'
   },
   extends: [
     'eslint:recommended',
@@ -35,6 +35,6 @@ module.exports = {
     'node/no-unsupported-features/es-syntax': 'off',
     'node/no-missing-import': 'off',
     'node/no-unpublished-import': 'off',
-    'node/no-extraneous-import': 'off',
+    'node/no-extraneous-import': 'off'
   }
 }
