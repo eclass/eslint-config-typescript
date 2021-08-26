@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/eclass/eslint-config-typescript/compare/v1.0.3...v2.0.0) (2021-08-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to v8 ([27a1448](https://github.com/eclass/eslint-config-typescript/commit/27a14489d2e52b449396478674b841d9b5c1d537))
+* **rules:** update prettier extends ([c864f2d](https://github.com/eclass/eslint-config-typescript/commit/c864f2d0369c93770fa27475ddfb53f0cdd935aa))
+
+
+### BREAKING CHANGES
+
+* **rules:** Update to eslint-config-prettier v8.0.0
+
 ## [1.0.3](https://github.com/eclass/eslint-config-typescript/compare/v1.0.2...v1.0.3) (2021-02-17)
 
 
