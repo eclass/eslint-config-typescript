@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/eclass/eslint-config-typescript/compare/v2.0.0...v2.0.1) (2021-08-26)
+
+
+### Bug Fixes
+
+* **deps:** set eslint-config-prettier as peerDependencies ([f8422b9](https://github.com/eclass/eslint-config-typescript/commit/f8422b9c194925664ec910933821cbf8252b7479))
+
 # [2.0.0](https://github.com/eclass/eslint-config-typescript/compare/v1.0.3...v2.0.0) (2021-08-26)
 
 
