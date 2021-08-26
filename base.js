@@ -13,10 +13,7 @@ module.exports = {
     'plugin:array-func/all',
     'plugin:sonarjs/recommended',
     'plugin:@typescript-eslint/recommended',
-    'prettier',
-    'plugin:prettier/recommended',
-    'prettier/@typescript-eslint',
-    'prettier/standard'
+    'plugin:prettier/recommended'
   ],
   plugins: [
     'promise',
