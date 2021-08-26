@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --fix",
-    "format": "prettier-standard '*.js'"
+    "format": "prettier-standard '*.js'",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
